@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "cars": "Avtomobillar",
+    "services": "Xizmatlar",
+    "drivers": "Haydovchilar uchun",
+    "reviews": "Sharhlar",
+    "contacts": "Kontaktlar"
+  },
+  "hero": {
+    "badge": "Premium taksopark",
+    "title1": "TRI",
+    "title2": "999",
+    "subtitle": "Taksida ishlash uchun avtomobillar ijarasi",
+    "description": "Qulay shartlarda avtomobil ijarasi. Hujjatlar, litsenziya va ulanish bo'yicha to'liq yordam.",
+    "ctaPrimary": "Avtomobillarni ko'rish",
+    "ctaSecondary": "Biz bilan bog'lanish",
+    "features": {
+      "0": "Avtomobil ijarasi",
+      "1": "Mehnat shartnomasi",
+      "2": "OSAGO",
+      "3": "KISART",
+      "4": "Litsenziya",
+      "5": "24/7 qo'llab-quvvatlash"
+    }
+  },
+  "cars": {
+    "title": "Bizning avtoparkimiz",
+    "subtitle": "Har qanday byudjet uchun mos avtomobil tanlang",
+    "viewAll": "Barchasini ko'rish",
+    "perDay": "kun",
+    "available": "Bo'sh",
+    "unavailable": "Band",
+    "apply": "Ijaraga olish",
+    "details": "Batafsil",
+    "transmission": "Uzatma",
+    "fuel": "Yoqilg'i",
+    "engine": "Dvigatel",
+    "trim": "Komplektatsiya",
+    "categories": {
+      "econom": "Ekonom",
+      "comfort": "Komfort",
+      "business": "Biznes"
+    },
+    "empty": "Hozircha bu bo'limda avtomobil yo'q"
+  },
+  "services": {
+    "title": "Xizmatlarimiz",
+    "subtitle": "Haydovchilar uchun to'liq qo'llab-quvvatlash"
+  },
+  "drivers": {
+    "title": "Haydovchilar uchun",
+    "subtitle": "Biz bilan ishlashning afzalliklari",
+    "items": {
+      "0": { "title": "Tez ro'yxatdan o'tish", "text": "1 kun ichida hujjatlarni rasmiylashtirib, ishni boshlaysiz." },
+      "1": { "title": "Minimal komissiya", "text": "Agregatorlarga ulanishda eng qulay shartlar." },
+      "2": { "title": "Texnik yordam", "text": "Avtomobilda muammo bo'lsa, tez almashtirib beramiz." },
+      "3": { "title": "Rasmiy shartnoma", "text": "Har bir haydovchi bilan rasmiy mehnat shartnomasi tuziladi." }
+    }
+  },
+  "whyUs": {
+    "title": "Nega aynan biz",
+    "items": {
+      "0": { "title": "Ishonchli avtoparkq", "text": "Barcha avtomobillar muntazam texnik ko'rikdan o'tadi." },
+      "1": { "title": "Shaffof shartlar", "text": "Yashirin to'lovlar yo'q, hammasi oldindan aniq." },
+      "2": { "title": "Tezkor qo'llab-quvvatlash", "text": "Savollaringizga istalgan vaqtda javob beramiz." },
+      "3": { "title": "Qulay joylashuv", "text": "Bishkek markazida, kelish va topshirish oson." }
+    }
+  },
+  "reviews": {
+    "title": "Mijozlarimiz fikri",
+    "subtitle": "Haydovchilarimiz biz haqimizda nima deydi",
+    "writeTitle": "Sharh qoldiring",
+    "writeSubtitle": "Fikringiz biz uchun muhim",
+    "empty": "Hozircha sharhlar yo'q. Birinchi bo'lib fikringizni yozing!"
+  },
+  "reviewForm": {
+    "name": "Ismingiz",
+    "namePlaceholder": "Ismingizni kiriting",
+    "rating": "Baho",
+    "text": "Sharhingiz",
+    "textPlaceholder": "Fikringizni yozing...",
+    "submit": "Yuborish",
+    "sending": "Yuborilmoqda...",
+    "success": "Rahmat! Sharhingiz qabul qilindi va tez orada ko'rib chiqiladi.",
+    "error": "Xatolik yuz berdi, qaytadan urinib ko'ring."
+  },
+  "applyForm": {
+    "title": "Ijaraga ariza",
+    "name": "Ismingiz",
+    "namePlaceholder": "Ismingizni kiriting",
+    "phone": "Telefon raqamingiz",
+    "phonePlaceholder": "+996 700 000 000",
+    "submit": "Ariza yuborish",
+    "sending": "Yuborilmoqda...",
+    "success": "Arizangiz qabul qilindi! Tez orada siz bilan bog'lanamiz.",
+    "error": "Xatolik yuz berdi, qaytadan urinib ko'ring."
+  },
+  "cta": {
+    "title": "Ishni bugun boshlang",
+    "subtitle": "Bizga qo'ng'iroq qiling yoki yozing — barcha savollaringizga javob beramiz",
+    "call": "Qo'ng'iroq qilish",
+    "message": "Yozish"
+  },
+  "footer": {
+    "description": "Taksida ishlash uchun avtomobillar ijarasi. Hujjatlar va litsenziya bo'yicha to'liq yordam.",
+    "nav": "Navigatsiya",
+    "contacts": "Kontaktlar",
+    "rights": "Barcha huquqlar himoyalangan."
+  },
+  "language": {
+    "uz": "O'zbekcha",
+    "kg": "Кыргызча",
+    "ru": "Русский"
+  }
+}
